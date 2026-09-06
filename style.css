@@ -237,6 +237,29 @@ footer {
 
 @media (max-width: 600px) {
 
+.process-section {
+    display: block;
+}
+
+.process-text {
+    padding-top: 0;
+    margin-bottom: 30px;
+}
+
+.process-gallery {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3;
+}
+
+.process-left {
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.process-right {
+    grid-template-rows: 2fr 1fr;
+}
+   
     .site-header {
         padding: 15px;
     }

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Busted Tusk | Collaborate</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+    <a href="index.html">
+        <img
+            src="BTheader.png"
+            alt="Busted Tusk — Kauri Company"
+        >
+    </a>
+</header>
+
+<nav class="navigation">
+    <a href="history.html">History</a>
+    <a href="relics.html">Relics</a>
+    <a href="collaborate.html">Collaborate</a>
+</nav>
+
+<main>
+
+    <section class="section home-intro">
+
+        <h1>Collaborate</h1>
+
+        <p>
+            Busted Tusk is built around collaboration.
+        </p>
+
+        <p>
+            We create relics from natural materials that carry character,
+            history, and meaning. As the caravan grows, we are looking for
+            artists and craftspeople whose work shares that philosophy.
+        </p>
+
+        <p>
+            Woodworkers. Metalsmiths. Stoneworkers. Rockhounds.
+            Carvers. Jewelers. Artists working in bone, antler, shell,
+            mineral, or other natural materials.
+        </p>
+
+        <p>
+            We are interested in the material itself—not simply what can be
+            made from it. Its origin, character, history, and imperfections
+            are part of the work.
+        </p>
+
+        <p>
+            If you have a material, a craft, or an idea that you think belongs
+            with Busted Tusk, we would like to hear from you.
+        </p>
+
+        <p>
+            <strong>Tell us what you make, what materials you work with,
+            and what you would like to create together.</strong>
+        </p>
+
+        <p>
+            <a href="mailto:bustedtusk@gmail.com">bustedtusk@gmail.com</a>
+        </p>
+
+    </section>
+
+</main>
+
+<footer>
+
+    <img
+        src="BTfooter.png"
+        alt="Busted Tusk"
+        class="footer-logo"
+    >
+
+    <p>
+        © 2026 Busted Tusk · Kauri Company
+    </p>
+
+</footer>
+
+</body>
+</html>

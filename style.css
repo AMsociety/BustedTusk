@@ -344,7 +344,7 @@ p {
 
 .process-gallery {
     display: grid;
-    grid-template-columns: 1fr 0.75fr;
+    grid-template-columns: 1fr 1.6875fr;
 }
 
 .process-column {

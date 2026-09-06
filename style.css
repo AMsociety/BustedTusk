@@ -344,16 +344,21 @@ p {
 
 .process-gallery {
     display: grid;
-    grid-template-columns: 1fr 1.6875fr;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
 }
 
 .process-column {
     display: flex;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 
 .process-column a {
     display: block;
+    margin: 0;
+    padding: 0;
     line-height: 0;
 }
 
@@ -361,9 +366,10 @@ p {
     display: block;
     width: 100%;
     height: auto;
+    margin: 0;
+    padding: 0;
 }
 
-.process-portrait img {
-    width: 100%;
-    height: auto;
+.process-landscape {
+    justify-content: center;
 }
